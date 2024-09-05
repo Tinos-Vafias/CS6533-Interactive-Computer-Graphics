@@ -1,0 +1,15 @@
+Assignment 4 contains the following concepts:
+- 3D transformations
+- Viewing and projection
+- Programmable shaders
+- Polygon scan-conversion
+- -Hidden-surface removal
+- Illumination and shading
+- Texture mapping
+- Effects of shadow
+- Decals
+- Lattice
+- Fog
+- Firework
+- Ray tracing and radiosity
+- And so on. 
